@@ -1,4 +1,4 @@
-# request-promise-bundle-size-test
+# url-bundle-size-test
 ----
 
 ```bash
